@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1584997546 source:d:\frapo\3d\ciudadopengl\main.cpp
+	<gl/glut.h>
+	<stdio.h>
+
+1566517722 d:\frapo\3d\ciudadopengl\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 d:\frapo\3d\ciudadopengl\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1586118295 source:c:\users\frapodeveloper\desktop\alien\main.cpp
+	<gl/glut.h>
+	<stdio.h>
+
+1566517722 c:\users\frapodeveloper\desktop\alien\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1566517722 c:\users\frapodeveloper\desktop\alien\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1586121508 source:d:\alienprueba-master\main.cpp
+	"stdafx.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+
+1586119400 d:\alienprueba-master\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1586119400 d:\alienprueba-master\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1354385856 source:d:\alienprueba-master\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206991862 d:\alienprueba-master\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354385916 d:\alienprueba-master\glm.h
+	<GL/glut.h>
+
+1206991862 source:d:\alienprueba-master\stdafx.cpp
+	"stdafx.h"
+
+1208837404 source:d:\alienprueba-master\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1353162732 d:\alienprueba-master\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1354385856 source:c:\users\frapodeveloper\desktop\nueva carpeta\alienprueba-master\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206991862 c:\users\frapodeveloper\desktop\nueva carpeta\alienprueba-master\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354385916 c:\users\frapodeveloper\desktop\nueva carpeta\alienprueba-master\glm.h
+	<GL/glut.h>
+
+1586119400 c:\users\frapodeveloper\desktop\nueva carpeta\alienprueba-master\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1586119400 c:\users\frapodeveloper\desktop\nueva carpeta\alienprueba-master\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1206991862 source:c:\users\frapodeveloper\desktop\nueva carpeta\alienprueba-master\stdafx.cpp
+	"stdafx.h"
+
+1208837404 source:c:\users\frapodeveloper\desktop\nueva carpeta\alienprueba-master\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1353162732 c:\users\frapodeveloper\desktop\nueva carpeta\alienprueba-master\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1586395746 source:c:\users\frapodeveloper\desktop\nueva carpeta\alienprueba-master\main.cpp
+	"stdafx.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	"glm.h"
+	"Texture.h"
+
+1354385856 source:d:\cursos\lenguajes\c++\nueva carpeta\alienprueba-master\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206991862 d:\cursos\lenguajes\c++\nueva carpeta\alienprueba-master\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354385916 d:\cursos\lenguajes\c++\nueva carpeta\alienprueba-master\glm.h
+	<GL/glut.h>
+
+1586119400 d:\cursos\lenguajes\c++\nueva carpeta\alienprueba-master\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1586119400 d:\cursos\lenguajes\c++\nueva carpeta\alienprueba-master\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1586709442 source:d:\cursos\lenguajes\c++\nueva carpeta\alienprueba-master\main.cpp
+	"stdafx.h"
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<GL/glut.h>
+	"glm.h"
+	<iostream>
+	"Texture.h"
+
+1353162732 d:\cursos\lenguajes\c++\nueva carpeta\alienprueba-master\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1206991862 source:d:\cursos\lenguajes\c++\nueva carpeta\alienprueba-master\stdafx.cpp
+	"stdafx.h"
+
+1208837404 source:d:\cursos\lenguajes\c++\nueva carpeta\alienprueba-master\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+

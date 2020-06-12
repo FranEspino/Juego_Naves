@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.12.2015 21:57:00
+
+newmtl Material__2
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0667 0.1843 0.0588
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_d C:\Documents and Settings\glenn\Desktop\TATTOOINE\opacity.jpg
+
+newmtl Material__5
+	Ns 0.0000
+	Ni 1.0000
+	d 0.9100
+	Tr 0.0900
+	Tf 0.9100 0.9100 0.9100 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\glenn\Desktop\Tatooine.jpg
+	map_Kd C:\Documents and Settings\glenn\Desktop\Tatooine.jpg
+	map_bump C:\Documents and Settings\glenn\Desktop\TatBump.jpg
